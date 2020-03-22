@@ -1,3 +1,4 @@
 # Flower-Classification-2
 
-from：<https://www.kaggle.com/rajmehra03/flower-recognition-cnn-keras>
+code from:<https://www.kaggle.com/rajmehra03/flower-recognition-cnn-keras>  
+dataset from:<https://www.kaggle.com/alxmamaev/flowers-recognition>
